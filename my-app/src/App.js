@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import MethodsAsPropsParent from "./components/MethodsAsPropsParent";
+import UseStateWithArrays from './components/UseStateWithArrays';
 
 function App() {
   return <div className="App">
-      <MethodsAsPropsParent />
+    <UseStateWithArrays/>
   </div>;
 }
 
